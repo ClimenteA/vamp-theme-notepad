@@ -1,4 +1,4 @@
-# vamp-theme-notepad
+# vamp-theme-notepad++
 
 ![dracula_blup](https://user-images.githubusercontent.com/9250009/72620270-a7dd9780-3947-11ea-8ae7-db0711b54fb1.PNG)
 
