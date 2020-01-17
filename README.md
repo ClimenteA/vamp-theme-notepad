@@ -16,5 +16,11 @@ Adding a custom theme to notepad++
 In windows go to AppData folder
 Type cd %APPDATA%/Notepad++ to find path to stylers.xml file
 
-Restart and enjoy
+Restart and enjoy!
+
+Note!
+You can style your own theme 
+- go to Settings > Style Configurator
+- overwrite these theme (or other) with your own colors
+- you have global and particular styles for each language
 
